@@ -18,9 +18,9 @@ I have collaborated with companies such as Lirmi and PetPartners, where I design
 
 [Cypress-TS-Cucumber-Web](https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web)
 
-[Playwright-TS-Cucumber-Web](https://github.com/thiagotobiasturk/Playwright-TS-Cucumber-Web))
+[Playwright-TS-Cucumber-Web](https://github.com/thiagotobiasturk/Playwright-TS-Cucumber-Web)
 
-[Appium-TS-Cucumber](https://github.com/thiagotobiasturk/Appium-TS-Cucumber))
+[Appium-TS-Cucumber](https://github.com/thiagotobiasturk/Appium-TS-Cucumber)
 
 [Pactum-JS-Cucumber-Api](https://github.com/thiagotobiasturk/Pactum-JS-Cucumber-Api)
 
