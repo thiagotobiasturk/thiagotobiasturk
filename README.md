@@ -19,8 +19,8 @@ QA Automation
 
 📫 Contact Me
 
-LinkedIn: Thiago Tobias Turk
+[LinkedIn](www.linkedin.com/in/thiago-tobias-turk-4462542a9)
 
-Email: tu-email@dominio.com
+Email: turkthiago3@gmail.com
 
 Thank you for visiting my profile!
