@@ -16,13 +16,13 @@ I have collaborated with companies such as Lirmi and PetPartners, where I design
 
 📂 Highlighted Projects
 
-[Cypress-TS-Cucumber-Web](https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web) [CI/CD](https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web/actions)
+[Cypress-TS-Cucumber-Web](https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web) / [CI/CD](https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web/actions)
 
-[Playwright-TS-Cucumber-Web](https://github.com/thiagotobiasturk/Playwright-TS-Cucumber-Web) [CI/CD](https://github.com/thiagotobiasturk/Playwright-TS-Cucumber-Web/actions)
+[Playwright-TS-Cucumber-Web](https://github.com/thiagotobiasturk/Playwright-TS-Cucumber-Web) / [CI/CD](https://github.com/thiagotobiasturk/Playwright-TS-Cucumber-Web/actions)
 
-[Appium-TS-Cucumber](https://github.com/thiagotobiasturk/Appium-TS-Cucumber) [CI/CD](https://github.com/thiagotobiasturk/Appium-TS-Cucumber/actions)
+[Appium-TS-Cucumber](https://github.com/thiagotobiasturk/Appium-TS-Cucumber) / [CI/CD](https://github.com/thiagotobiasturk/Appium-TS-Cucumber/actions)
 
-[Pactum-JS-Cucumber-Api](https://github.com/thiagotobiasturk/Pactum-JS-Cucumber-Api) [CI/CD](https://github.com/thiagotobiasturk/Pactum-JS-Cucumber-Api/actions)
+[Pactum-JS-Cucumber-Api](https://github.com/thiagotobiasturk/Pactum-JS-Cucumber-Api)  / [CI/CD](https://github.com/thiagotobiasturk/Pactum-JS-Cucumber-Api/actions)
 
 📫 Contact Me
 
