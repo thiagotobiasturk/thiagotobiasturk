@@ -6,7 +6,7 @@ I am a Mid-Level QA Automation Engineer with 1 year of experience in test automa
 🔧 Skills
 Test Automation: Cypress, Playwright, Selenium, Appium, Pactum.
 API Testing: Postman.
-Programming Languages: Java, JavaScript, Python, TypeScript.
+Programming Languages: Java, JavaScript, TypeScript.
 CI/CD: Azure Pipelines, GitHub Actions, GitLab CI.
 Framework Development: I create and maintain frameworks using Cucumber, designed to be as understandable as possible for individuals with limited knowledge in test automation.
 
