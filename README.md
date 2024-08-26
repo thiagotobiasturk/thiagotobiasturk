@@ -16,13 +16,13 @@ I have collaborated with companies such as Lirmi and PetPartners, where I design
 
 📂 Highlighted Projects
 
-[QA Automation Web](Cypress-TS-Cucumber-Web)
+[Cypress-TS-Cucumber-Web](https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web)
 
-[QA Automation Web](Playwright-TS-Cucumber-Web)
+[Playwright-TS-Cucumber-Web](https://github.com/thiagotobiasturk/Playwright-TS-Cucumber-Web))
 
-[QA Automation Mobile](Appium-TS-Cucumber)
+[Appium-TS-Cucumber](https://github.com/thiagotobiasturk/Appium-TS-Cucumber))
 
-[QA Automation Api](Pactum-JS-Cucumber-Api)
+[Pactum-JS-Cucumber-Api](https://github.com/thiagotobiasturk/Pactum-JS-Cucumber-Api)
 
 📫 Contact Me
 
