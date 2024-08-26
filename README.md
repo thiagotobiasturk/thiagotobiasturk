@@ -1,26 +1,22 @@
-# Hola, soy Thiago Tobias Turk 👋
+Hi, I’m Thiago Tobias Turk 👋
+🚀 About Me
+I am a Mid-Level QA Automation Engineer with 1 year of experience in test automation and framework development. I am currently working at Automation Armada, where I continue to hone my skills with Cypress, Playwright, Selenium, Appium, and Pactum. I also have experience with Postman for API testing. I work with programming languages such as Java, JavaScript, Python, and TypeScript.
 
-## 🚀 Sobre Mí
-Soy **Mid-Level QA Automation Engineer** con 1 año de experiencia en automatización de pruebas y desarrollo de frameworks. Tengo experiencia en herramientas como **Cypress**, **Playwright**, **Selenium**, **Appium** y **Pactum**, y en lenguajes de programación como **Java**, **JavaScript**, **Python** y **TypeScript**. 
+🔧 Skills
+Test Automation: Cypress, Playwright, Selenium, Appium, Pactum.
+API Testing: Postman.
+Programming Languages: Java, JavaScript, Python, TypeScript.
+CI/CD: Azure Pipelines, GitHub Actions, GitLab CI.
+Framework Development: I create and maintain frameworks using Cucumber, designed to be as understandable as possible for individuals with limited knowledge in test automation.
+💼 Experience
+I have collaborated with companies such as Lirmi and PetPartners, where I designed and maintained automation tests to validate their websites and optimized their CI/CD pipelines.
 
-## 🔧 Habilidades
-- **Automatización de Pruebas:** Cypress, Playwright, Selenium, Appium, Pactum.
-- **Lenguajes de Programación:** Java, JavaScript, Python, TypeScript.
-- **CI/CD:** Azure Pipelines, GitHub Actions, GitLab CI.
-- **Desarrollo de Frameworks:** Cucumber para pruebas automatizadas.
 
-## 💼 Experiencia
-He trabajado con empresas como **Lirmi** y **PetPartners**, ayudándolas a diseñar y ejecutar pruebas para validar sus sitios web y optimizando sus pipelines de CI/CD.
+📂 Highlighted Projects
+CI/CD and DevOps
+QA Automation
 
-## 🎮 Pasiones y Sueños
-Además de mis habilidades técnicas, tengo una gran pasión por los videojuegos y la dirección de cine. Sueño con crear mi propio videojuego y fundar una empresa de videojuegos para combinar mi amor por la tecnología con mi interés en el entretenimiento interactivo.
-
-## 📂 Proyectos Destacados
-- [CI/CD y DevOps](https://github.com/TuUsuarioDevOps)
-- [Automatización de QA](https://github.com/TuUsuarioQA)
-
-## 📫 Contáctame
-- **LinkedIn:** [Thiago Tobias Turk](https://www.linkedin.com/in/tu-perfil)
-- **Correo Electrónico:** [tu-email@dominio.com](mailto:tu-email@dominio.com)
-
-¡Gracias por visitar mi perfil!
+📫 Contact Me
+LinkedIn: Thiago Tobias Turk
+Email: tu-email@dominio.com
+Thank you for visiting my profile!
