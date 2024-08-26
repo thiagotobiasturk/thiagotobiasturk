@@ -20,8 +20,8 @@ QA Automation
 
 📫 Contact Me
 
-[LinkedIn](www.linkedin.com/in/thiago-tobias-turk-4462542a9)
+LinkedIn: www.linkedin.com/in/thiago-tobias-turk-4462542a9
 
-[Email](turkthiago3@gmail.com)
+Email: turkthiago3@gmail.com
 
 Thank you for visiting my profile!
