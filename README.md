@@ -15,8 +15,10 @@ I have collaborated with companies such as Lirmi and PetPartners, where I design
 
 
 📂 Highlighted Projects
-CI/CD and DevOps
-QA Automation
+[QA Automation Web](Cypress-TS-Cucumber-Web)
+[QA Automation Web](Playwright-TS-Cucumber-Web)
+[QA Automation Mobile](Appium-TS-Cucumber)
+[QA Automation Api](Pactum-JS-Cucumber-Api)
 
 📫 Contact Me
 
