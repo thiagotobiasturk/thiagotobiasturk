@@ -19,5 +19,7 @@ QA Automation
 
 📫 Contact Me
 LinkedIn: Thiago Tobias Turk
+
 Email: tu-email@dominio.com
+
 Thank you for visiting my profile!
