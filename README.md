@@ -1,20 +1,20 @@
 Hi, I’m Thiago Tobias Turk 👋
 
 🚀 About Me
-I am a Mid-Level QA Automation Engineer with 1 year of experience in test automation and framework development. I am currently working at Automation Armada, where I continue to hone my skills with Cypress, Playwright, Selenium, Appium, and Pactum. I also have experience with Postman for API testing. I work with programming languages such as Java, JavaScript,  and TypeScript.
+I am a Mid-Level QA Automation Engineer with a year of experience specializing in test automation and framework development. Currently, I work at Automation Armada, where I refine my skills with tools such as Cypress, Playwright, Selenium, Appium, and Pactum. My expertise also extends to API testing with Postman. I’m proficient in programming languages including Java, JavaScript, and TypeScript.
 
 🔧 Skills
-Test Automation: Cypress, Playwright, Selenium, Appium, Pactum.
-API Testing: Postman.
-Programming Languages: Java, JavaScript, TypeScript.
-CI/CD: Azure Pipelines, GitHub Actions, GitLab CI.
-Framework Development: I create and maintain frameworks using Cucumber, designed to be as understandable as possible for individuals with limited knowledge in test automation.
+- Test Automation: Cypress, Playwright, Selenium, Appium, Pactum
+- API Testing: Postman
+- Programming Languages: Java, JavaScript, TypeScript
+- CI/CD: Azure Pipelines, GitHub Actions, GitLab CI
+- Framework Development: I design and maintain frameworks using Cucumber, focusing on clarity and accessibility for users with varying levels of test automation experience.
 
 💼 Experience
-I have collaborated with companies such as Lirmi and PetPartners, where I designed and maintained automation tests to validate their websites .
+I have collaborated with companies such as Lirmi and PetPartners, where I designed and maintained automation tests to validate their websites.
 
 
-📂 Highlighted Projects
+📂 Projects Examples
 
 [Cypress-TS-Cucumber-Web](https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web) / [CI/CD](https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web/actions)
 
