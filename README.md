@@ -11,7 +11,7 @@ CI/CD: Azure Pipelines, GitHub Actions, GitLab CI.
 Framework Development: I create and maintain frameworks using Cucumber, designed to be as understandable as possible for individuals with limited knowledge in test automation.
 
 💼 Experience
-I have collaborated with companies such as Lirmi and PetPartners, where I designed and maintained automation tests to validate their websites and optimized their CI/CD pipelines.
+I have collaborated with companies such as Lirmi and PetPartners, where I designed and maintained automation tests to validate their websites .
 
 
 📂 Highlighted Projects
