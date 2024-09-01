@@ -1,7 +1,7 @@
 Hi, I’m Thiago Tobias Turk 👋
 
 🚀 About Me
-I am a Mid-Level QA Automation Engineer with 1 year of experience in test automation and framework development. I am currently working at Automation Armada, where I continue to hone my skills with Cypress, Playwright, Selenium, Appium, and Pactum. I also have experience with Postman for API testing. I work with programming languages such as Java, JavaScript, Python, and TypeScript.
+I am a Mid-Level QA Automation Engineer with 1 year of experience in test automation and framework development. I am currently working at Automation Armada, where I continue to hone my skills with Cypress, Playwright, Selenium, Appium, and Pactum. I also have experience with Postman for API testing. I work with programming languages such as Java, JavaScript,  and TypeScript.
 
 🔧 Skills
 Test Automation: Cypress, Playwright, Selenium, Appium, Pactum.
