@@ -10,10 +10,6 @@ I am a Mid-Level QA Automation Engineer with a year of experience specializing i
 - CI/CD: Azure Pipelines, GitHub Actions, GitLab CI
 - Framework Development: I design and maintain frameworks using Cucumber, focusing on clarity and accessibility for users with varying levels of test automation experience.
 
-💼 Experience
-I have collaborated with companies such as Lirmi and PetPartners, where I designed and maintained automation tests to validate their websites.
-
-
 📂 Projects Examples
 
 [Cypress-TS-Cucumber-Web](https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web) / [CI/CD](https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web/actions)
