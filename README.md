@@ -16,9 +16,6 @@
 I am a Mid-Level QA Automation Engineer with a year of experience specializing in test automation and framework development. Currently, I work at Automation Armada, where I refine my skills with tools such as Cypress, Playwright, Selenium, Appium, and Pactum. My expertise also extends to API testing with Postman. I’m proficient in programming languages including Java, JavaScript, and TypeScript.
 
 
-Thank you for visiting my profile!
-
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -66,3 +63,4 @@ Thank you for visiting my profile!
 
 ---
 
+Thank you for visiting my profile!
