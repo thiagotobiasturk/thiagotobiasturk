@@ -48,16 +48,12 @@ I am a Mid-Level QA Automation Engineer with a year of experience specializing i
 
 ## Projects Examples  
 
-<div align="center">
-
 | Project                                      | CI/CD                                      |
 |----------------------------------------------|-------------------------------------------|
 | [Cypress-TS-Cucumber-Web](https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web)       | [CI/CD](https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web/actions)  |
 | [Playwright-TS-Cucumber-Web](https://github.com/thiagotobiasturk/Playwright-TS-Cucumber-Web) | [CI/CD](https://github.com/thiagotobiasturk/Playwright-TS-Cucumber-Web/actions) |
 | [Appium-TS-Cucumber](https://github.com/thiagotobiasturk/Appium-TS-Cucumber)                 | [CI/CD](https://github.com/thiagotobiasturk/Appium-TS-Cucumber/actions)         |
 | [Pactum-JS-Cucumber-Api](https://github.com/thiagotobiasturk/Pactum-JS-Cucumber-Api)        | [CI/CD](https://github.com/thiagotobiasturk/Pactum-JS-Cucumber-Api/actions)    |
-
-</div>
 
 
 ## 📊 GitHub Stats  
