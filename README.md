@@ -48,6 +48,8 @@ I am a Mid-Level QA Automation Engineer with a year of experience specializing i
 
 ## Projects Examples  
 
+<div align="center">
+
 | Project                                      | CI/CD                                      |
 |----------------------------------------------|-------------------------------------------|
 | [Cypress-TS-Cucumber-Web](https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web)       | [CI/CD](https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web/actions)  |
@@ -55,18 +57,22 @@ I am a Mid-Level QA Automation Engineer with a year of experience specializing i
 | [Appium-TS-Cucumber](https://github.com/thiagotobiasturk/Appium-TS-Cucumber)                 | [CI/CD](https://github.com/thiagotobiasturk/Appium-TS-Cucumber/actions)         |
 | [Pactum-JS-Cucumber-Api](https://github.com/thiagotobiasturk/Pactum-JS-Cucumber-Api)        | [CI/CD](https://github.com/thiagotobiasturk/Pactum-JS-Cucumber-Api/actions)    |
 
+</div>
+
 
 ## 📊 GitHub Stats  
-<table style="margin-left: 20px;">
-  <tr>
-    <td valign="top" width="53%">
-      <img src="https://github-readme-stats.vercel.app/api?username=thiagotobiasturk&show_icons=true&theme=github_dark" alt="Your GitHub Stats" style="width: 100%;" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotobiasturk&layout=compact&theme=github_dark" alt="Top Languages" style="width: 100%;" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="53%">
+        <img src="https://github-readme-stats.vercel.app/api?username=thiagotobiasturk&show_icons=true&theme=github_dark" alt="Your GitHub Stats" style="width: 100%;" />
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotobiasturk&layout=compact&theme=github_dark" alt="Top Languages" style="width: 100%;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
