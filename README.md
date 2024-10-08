@@ -46,12 +46,40 @@ I am a Mid-Level QA Automation Engineer with a year of experience specializing i
 - **CI/CD:** Azure Pipelines, GitHub Actions, GitLab CI
 - **Framework Development:** Designing and maintaining frameworks using Cucumber, focusing on clarity and accessibility for users with varying levels of test automation experience.
 
-##  Projects Examples  
-- [Cypress-TS-Cucumber-Web](https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web) / [CI/CD](https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web/actions)
-- [Playwright-TS-Cucumber-Web](https://github.com/thiagotobiasturk/Playwright-TS-Cucumber-Web) / [CI/CD](https://github.com/thiagotobiasturk/Playwright-TS-Cucumber-Web/actions)
-- [Appium-TS-Cucumber](https://github.com/thiagotobiasturk/Appium-TS-Cucumber) / [CI/CD](https://github.com/thiagotobiasturk/Appium-TS-Cucumber/actions)
-- [Pactum-JS-Cucumber-Api](https://github.com/thiagotobiasturk/Pactum-JS-Cucumber-Api) / [CI/CD](https://github.com/thiagotobiasturk/Pactum-JS-Cucumber-Api/actions)
+## Projects Examples  
 
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px;">
+    <div style="text-align: center;">
+      <a href="https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web" target="_blank">
+        <img src="https://miro.medium.com/v2/resize:fit:600/0*YtCzzpjWb60A_P3-.png" alt="Cypress" height="60" style="vertical-align: middle;" />
+        <h4 style="display: inline;">Cypress-TS-Cucumber-Web</h4>
+      </a>
+      <a href="https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web/actions" target="_blank" style="margin-left: 10px;">CI/CD</a>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://github.com/thiagotobiasturk/Playwright-TS-Cucumber-Web" target="_blank">
+        <img src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png" alt="Playwright" height="60" style="vertical-align: middle;" />
+        <h4 style="display: inline;">Playwright-TS-Cucumber-Web</h4>
+      </a>
+      <a href="https://github.com/thiagotobiasturk/Playwright-TS-Cucumber-Web/actions" target="_blank" style="margin-left: 10px;">CI/CD</a>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://github.com/thiagotobiasturk/Appium-TS-Cucumber" target="_blank">
+        <img src="https://miro.medium.com/v2/resize:fit:800/1*N5M8NJtZp83EMrK1WGhjjw.png" alt="Appium" height="60" style="vertical-align: middle;" />
+        <h4 style="display: inline;">Appium-TS-Cucumber</h4>
+      </a>
+      <a href="https://github.com/thiagotobiasturk/Appium-TS-Cucumber/actions" target="_blank" style="margin-left: 10px;">CI/CD</a>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://github.com/thiagotobiasturk/Pactum-JS-Cucumber-Api" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/76616193?s=280&v=4" alt="Pactum" height="60" style="vertical-align: middle;" />
+        <h4 style="display: inline;">Pactum-JS-Cucumber-Api</h4>
+      </a>
+      <a href="https://github.com/thiagotobiasturk/Pactum-JS-Cucumber-Api/actions" target="_blank" style="margin-left: 10px;">CI/CD</a>
+    </div>
+  </div>
+</div>
 
 
 ## 📊 GitHub Stats  
