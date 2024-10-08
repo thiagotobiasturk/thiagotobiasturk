@@ -19,7 +19,7 @@
 
 
 
-## 🚀 About Me
+##  About Me
 I am a Mid-Level QA Automation Engineer with a year of experience specializing in test automation and framework development. Currently, I work at Automation Armada, where I refine my skills with tools such as Cypress, Playwright, Selenium, Appium, and Pactum. My expertise also extends to API testing with Postman. I’m proficient in programming languages including Java, JavaScript, and TypeScript.
 
 
@@ -39,14 +39,14 @@ I am a Mid-Level QA Automation Engineer with a year of experience specializing i
  -->
 
 
-## 💼 Skills  
+##  Skills  
 - **Test Automation:** Cypress, Playwright, Selenium, Appium, Pactum
 - **API Testing:** Postman
 - **Programming Languages:** Java, JavaScript, TypeScript
 - **CI/CD:** Azure Pipelines, GitHub Actions, GitLab CI
 - **Framework Development:** Designing and maintaining frameworks using Cucumber, focusing on clarity and accessibility for users with varying levels of test automation experience.
 
-## 📂 Projects Examples  
+##  Projects Examples  
 - [Cypress-TS-Cucumber-Web](https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web) / [CI/CD](https://github.com/thiagotobiasturk/Cypress-TS-Cucumber-Web/actions)
 - [Playwright-TS-Cucumber-Web](https://github.com/thiagotobiasturk/Playwright-TS-Cucumber-Web) / [CI/CD](https://github.com/thiagotobiasturk/Playwright-TS-Cucumber-Web/actions)
 - [Appium-TS-Cucumber](https://github.com/thiagotobiasturk/Appium-TS-Cucumber) / [CI/CD](https://github.com/thiagotobiasturk/Appium-TS-Cucumber/actions)
