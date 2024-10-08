@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Thiago Turk  
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/40537aee-3fc1-45ab-b303-d63cd8bf35c7" alt="My Image" style="width: 100%;" />
+  <img src="https://github.com/user-attachments/assets/40537aee-3fc1-45ab-b303-d63cd8bf35c7" alt="My Image" style="width: 100%; height: 350px;" />
 </div>
 
 &nbsp;
