@@ -34,7 +34,7 @@ I am a Mid-Level QA Automation Engineer with a year of experience specializing i
   <a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png" alt="Playwright" height="75" /></a>
   <a href="https://appium.io/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:800/1*N5M8NJtZp83EMrK1WGhjjw.png" alt="Appium" height="75" /></a>
   <a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/selenium-icon-2048x1986-3fr2ikf8.png" alt="Selenium" height="75" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/693487fc-014a-4fc2-879c-e71c7b39258e" alt="SQL" height="75" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/b7306dd2-c79c-4369-a9cf-f60542adc7b7" alt="SQL" height="75" /></a>
 </div>  
 <!--   <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies.png" alt="Postman" height="75" /></a>
  -->
