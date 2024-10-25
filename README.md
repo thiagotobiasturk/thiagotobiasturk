@@ -45,7 +45,7 @@ I am a Mid-Level QA Automation Engineer with a year of experience specializing i
 - **API Testing:** Postman
 - **SQL:** MySQL, PostgreSQL
 - **Programming Languages:** Java, JavaScript, TypeScript
-- **CI/CD:** Azure Pipelines, GitHub Actions, GitLab CI
+- **CI/CD:** Azure Pipelines, GitHub Actions
 - **Framework Development:** Designing and maintaining frameworks using Cucumber, focusing on clarity and accessibility for users with varying levels of test automation experience.
 
 ## Projects Examples  
