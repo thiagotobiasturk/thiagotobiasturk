@@ -42,7 +42,7 @@ I'm Thiago Tobias Turk, a Mid-Level QA Automation Engineer with 1 year of experi
 - **Test Automation:** Cypress, Playwright, Selenium, Appium, API
 - **SQL:** MySQL, PostgreSQL
 - **Programming Languages:** Java, JavaScript, TypeScript
-- **CI/CD:** Azure Pipelines, GitHub Actions, Gitlab CI/CD
+- **CI/CD:** Azure Pipelines, GitHub Actions, Gitlab CI
 - **Framework Development:** Designing and maintaining frameworks using Cucumber, focusing on clarity and accessibility for users with varying levels of test automation experience.
 
 ## Projects Examples  
