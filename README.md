@@ -20,7 +20,7 @@
 
 
 ##  About Me
-I'm Thiago Tobias Turk, a QA Hybrid (Manual + Automation) with 1 year of experience in Quality Assurance, specializing in manual and automated testing, as well as framework development. I have worked on various projects developing efficient testing strategies using Cypress, Playwright, Selenium, Appium, and Pactum for web, API, and mobile applications.
+I'm Thiago Tobias Turk, a QA Hybrid (Manual + Automation) with 1 year of experience in Quality Assurance, specializing in manual and automated testing, as well as framework development. I have worked on various projects developing efficient testing strategies using Cypress, Playwright, Selenium, Appium for web, and mobile applications.
 
 ## Languages and Tools  
 <div align="center">  
