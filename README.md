@@ -40,7 +40,6 @@ I'm Thiago Tobias Turk, a QA Hybrid (Manual + Automation) with 1 year of experie
 
 ##  Skills  
 - **Test Automation:** Cypress, Playwright, Selenium, Appium, API
-- **SQL:** MySQL, PostgreSQL
 - **I worked with thease Programming Languages:** Java, JavaScript, TypeScript
 - **CI/CD:** Azure Devops, GitHub Actions, Gitlab CI
 - **Framework Development:** Designing and maintaining frameworks using Cucumber, focusing on clarity and accessibility for users with varying levels of test automation experience.
